@@ -66,7 +66,7 @@
                 </tr>
                 <tr>
                   <td>MS OFFICE 2022</td>
-                  <td>Material</td>
+                  <td>aa</td>
                   <td>5 Jan 2018</td>
                   <td>125 $</td>
                   <td>
@@ -76,9 +76,9 @@
               </tr>
               <tr>
                 <td>HP Laptop</td>
-                <td>Hardware</td>
+                <td>aayjyj</td>
                 <td>5 Jan 2018</td>
-                <td>250 $</td>
+                <td>140 $</td>
                 <td>
                   <a class="btn btn-info" href="">Edit</a>
                   <button type="submit" class="btn btn-danger">Delete</button>

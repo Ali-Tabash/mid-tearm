@@ -127,7 +127,7 @@
                     <td>Dell Laptop</td>
                     <td>Hardware</td>
                     <td>5 Jan 2019</td>
-                    <td>100 $</td>
+                    <td>89 $</td>
                     <td>
                       <a class="btn btn-info" href="">Edit</a>
                       <button type="submit" class="btn btn-danger">Delete</button>
@@ -135,9 +135,9 @@
                 </tr>
                 <tr>
                   <td>MS OFFICE 2022</td>
-                  <td>Material</td>
+                  <td>ehtjht</td>
                   <td>5 Jan 2018</td>
-                  <td>125 $</td>
+                  <td>8 $</td>
                   <td>
                     <a class="btn btn-info" href="">Edit</a>
                     <button type="submit" class="btn btn-danger">Delete</button>
@@ -145,9 +145,9 @@
               </tr>
               <tr>
                 <td>HP Laptop</td>
-                <td>Hardware</td>
+                <td>qqq</td>
                 <td>5 Jan 1999</td>
-                <td>150 $</td>
+                <td>70 $</td>
                 <td>
                   <a class="btn btn-info" href="">Edit</a>
                   <button type="submit" class="btn btn-danger">Delete</button>

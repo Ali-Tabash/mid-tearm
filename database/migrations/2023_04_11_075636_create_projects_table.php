@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('category');
-            // $table->number('Amount');
-            // $table->date('Purchase');
+            $table->string('Amount');
+            $table->string('Purchase');
             $table->timestamps();
         });
     }
