@@ -1,5 +1,8 @@
 <?php
 
+use App\Models\project;
+use App\Http\Controllers\Projectcontroller;
+
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +19,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/create',[Projectcontroller::class,('create')]);
+Route::get('dash',[Projectcontroller::class,('dash')]);
+Route::get('expenses',[Projectcontroller::class,('expenses')]);
+Route::get('expenses',[Projectcontroller::class,('expenses')]);
+Route::post('stored',[Projectcontroller::class,('stored')]);
+Route::post('delete/{id}',[Projectcontroller::class,('delete')]);
+Route::post('update/{id}',[Projectcontroller::class,('update')]);
+
+
